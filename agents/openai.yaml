@@ -1,0 +1,4 @@
+interface:
+  display_name: "饮食运动健康日记"
+  short_description: "用聊天记录饮食、训练和身体感受，量化营养目标并生成可核对的每周总结"
+  default_prompt: "使用 $health-journal 记录今天的饮食和运动，核对营养目标，并保存到我的健康账本。"
